@@ -26,4 +26,4 @@ email : hello@hello.com
 * jupyter notebook
 * tensorflow
 
-[Google](https://www.google.com)
+* [Google](https://www.google.com)
