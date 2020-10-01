@@ -1,5 +1,7 @@
 # RESUME (Hello)
 
-HELLO (Hello)  
+## HELLO (Hello)  
 
-<h4> name : 홍길동 </h4>
+#### name : 홍길동 
+#### email : hello@hello.com
+#### university : hallym.ac.kr
