@@ -19,6 +19,6 @@ email : hello@hello.com
 4. python
 
 ## Recently Interests
-*opensource  
-*deep-learning  
-*block-chain
+.opensource  
+.deep-learning  
+.block-chain
