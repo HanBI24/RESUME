@@ -54,7 +54,8 @@ __Basic Highlights__
 |3|C++||
 
 
-
+![Hello_Android](/Hello_Android.png)  
+<img src = Hello_Android.png width = 200 height = 100/>
 
 [google]: https://www.google.com
 [naver]: https://www.naver.com
